@@ -1,0 +1,4 @@
+Campus Total Consumption: 376 kWh
+Highest Consuming Building: building_a (198 kWh)
+Peak Load Time: 2025-01-06 14:00:00
+Daily & Weekly trends are shown in the dashboard image.
